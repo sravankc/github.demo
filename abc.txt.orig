@@ -1,11 +1,13 @@
 hello
 this is demo
-
+<<<<<<< HEAD
 3rd line
 4th line
 5th line
+=======
 
 creating 
 merge 
 conflicts
+>>>>>>> index
 
